@@ -4,5 +4,5 @@
 
 📐 stacks: JavaScript, C#, Nodejs, TypeScrpit, SQL
 
-❓ [Linkedln](https://www.linkedin.com/in/maria-eduarda-de-souza-19a579187/)
+❓ onde me achar: [Linkedln](https://www.linkedin.com/in/maria-eduarda-de-souza-19a579187/)
 
